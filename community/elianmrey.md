@@ -34,7 +34,7 @@ Um dos projetos mais interessantes que desenvolvi até agora é a **Torque Compu
 
 Estou sempre em busca de novos desafios e pronto para colaborar em projetos que envolvam o mundo da tecnologia!
 
-===
+---
 
 # Elian Reyes - Coursing Computer Engineering
 
